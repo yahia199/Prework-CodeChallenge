@@ -1,0 +1,16 @@
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.exe
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.deps.json
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.runtimeconfig.json
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.runtimeconfig.dev.json
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.dll
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\ref\perwork-codechallnge.dll
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\bin\Debug\net5.0\perwork-codechallnge.pdb
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.csproj.AssemblyReference.cache
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.AssemblyInfoInputs.cache
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.AssemblyInfo.cs
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.csproj.CoreCompileInputs.cache
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.dll
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\ref\perwork-codechallnge.dll
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.pdb
+C:\Users\D-C\Desktop\Prework-CodeChallenges\Prework-CodeChallenge\perwork-codechallnge\perwork-codechallnge\obj\Debug\net5.0\perwork-codechallnge.genruntimeconfig.cache
