@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _401_prework_code_challenges
+namespace prework_code_challenges
 {
     class Program
     {
